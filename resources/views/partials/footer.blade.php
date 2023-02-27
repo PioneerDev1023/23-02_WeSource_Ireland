@@ -7,7 +7,9 @@
                 <a href="/" class="logo d-flex align-items-center">
                     <img src="{{ asset('img/logo.png') }}" alt="">    
                 </a>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>
+                    We help great people find temporary solutions before the next phase of life, or a path to fulltime employment with us.
+                </p>
                 <div class="social-links d-flex mt-4">
                     <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
                     <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>

@@ -19,14 +19,6 @@
                 </div>
             </div>
         </div>
-        <nav>
-            <div class="container">
-                <ol>
-                    <li><a href="/">Home</a></li>
-                    <li>About</li>
-                </ol>
-            </div>
-        </nav>
     </div><!-- End Breadcrumbs -->
 
     <!-- ======= About Us Section ======= -->
@@ -41,32 +33,37 @@
                 <div class="col-lg-6 content order-last  order-lg-first">
                     <h3>About Us</h3>
                     <p>
-                        Dolor iure expedita id fuga asperiores qui sunt consequatur minima. Quidem voluptas deleniti.
-                        Sit quia molestiae quia quas qui magnam itaque veritatis dolores. Corrupti totam ut eius
-                        incidunt reiciendis veritatis asperiores placeat.
+                        We partner with organizations to provide on demand solutions that help them reduce costs, save time and increase productivity.
                     </p>
                     <ul>
                         <li data-aos="fade-up" data-aos-delay="100">
                             <i class="bi bi-diagram-3"></i>
                             <div>
-                                <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                                <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
+                                <h5>HR Consultants</h5>
+                                <p>
+                                    HR Consultants with professional experience in the UAE, who possess an
+                                    entrepreneurial drive, connect with us to explore options how we can expand our HR
+                                    advisory services together.
+                                </p>
                             </div>
                         </li>
                         <li data-aos="fade-up" data-aos-delay="200">
                             <i class="bi bi-fullscreen-exit"></i>
                             <div>
-                                <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                                <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata
-                                    redi</p>
+                                <h5>HR Recruiters</h5>
+                                <p>
+                                    HR Recruiters with previous 360 degrees professional experience, who possess an
+                                    entrepreneurial drive, connect with us to explore options how we can work together.
+                                </p>
                             </div>
                         </li>
                         <li data-aos="fade-up" data-aos-delay="300">
                             <i class="bi bi-broadcast"></i>
                             <div>
-                                <h5>Voluptatem et qui exercitationem</h5>
-                                <p>Et velit et eos maiores est tempora et quos dolorem autem tempora incidunt maxime
-                                    veniam</p>
+                                <h5>Contract Staffing</h5>
+                                <p>
+                                    With flexible work schedules on the rise and market demand shifting faster than ever we provide customized solutions for your business, whether you need one person or an entire project team. 
+                                </p>
                             </div>
                         </li>
                     </ul>
@@ -74,7 +71,8 @@
             </div>
 
         </div>
-    </section><!-- End About Us Section -->
+    </section>
+    <!-- End About Us Section -->
 
     <!-- ======= Stats Counter Section ======= -->
     <section id="stats-counter" class="stats-counter pt-0">

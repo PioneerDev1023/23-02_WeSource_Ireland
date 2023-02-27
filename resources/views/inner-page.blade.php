@@ -17,14 +17,6 @@
                 </div>
             </div>
         </div>
-        <nav>
-            <div class="container">
-                <ol>
-                    <li><a href="/">Home</a></li>
-                    <li>Sample Inner Page</li>
-                </ol>
-            </div>
-        </nav>
     </div><!-- End Breadcrumbs -->
 
     <section class="sample-page">

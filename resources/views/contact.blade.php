@@ -11,22 +11,12 @@
                     <div class="col-lg-6 text-center">
                         <h2>Contact</h2>
                         <p>
-                            Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas
-                            consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione
-                            sint. Sit quaerat ipsum dolorem.
+                            We partner with organizations to provide on demand solutions that help them reduce costs, save time and increase productivity. As the HR evolution rapidly changes business landscapes and the traditional responsibilities of human resources, WeSource continues to provide credible cutting edge solutions and hands on locally compliant experience.
                         </p>
                     </div>
                 </div>
             </div>
         </div>
-        <nav>
-            <div class="container">
-                <ol>
-                    <li><a href="/">Home</a></li>
-                    <li>Contact</li>
-                </ol>
-            </div>
-        </nav>
     </div><!-- End Breadcrumbs -->
 
     <!-- ======= Contact Section ======= -->
