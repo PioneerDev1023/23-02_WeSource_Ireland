@@ -61,7 +61,7 @@
             </div>
 
             <div class="col-lg-5 order-1 order-lg-2 hero-img landing-image" data-aos="zoom-out">
-                <img src="{{ asset('img/hero-img.png') }}" class="img-fluid mb-3 mb-lg-0" alt="">
+                <img src="{{ asset('img/hero-img.svg') }}" class="img-fluid mb-3 mb-lg-0" alt="">
             </div>
 
         </div>
